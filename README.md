@@ -13,3 +13,4 @@ Files named based on type of simulation, which is desribed in Anderson et al. 20
 * BaseCase_HalfVOC: HRRR-Chem Half VOC
 * BaseCase_2xVOC: HRRR-Chem Twice VOC
 * BaseCase_FlamFrac_55: HRRR-Chem (45% Emissions at Surface)
+* Includes Bias Corrected DC-8 data from the interpolation, modeled flight tracks, and modeled curtains
